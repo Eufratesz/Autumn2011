@@ -9,5 +9,7 @@ public class TrainerMain {
         System.out.println(trainer.getName());      //null alapesetben
         System.out.println(trainer.isActive());     //false
         System.out.println(trainer.getTraining());     //null
+
+
     }
 }
